@@ -1,2 +1,2 @@
 addr: :6969
-database_url: postgres://postgres:jj8023@43.134.209.82/zx?sslmode=disable
+database_url: postgres://postgres@127.0.0.1/zx?sslmode=disable
